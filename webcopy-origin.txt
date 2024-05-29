@@ -1,0 +1,1208 @@
+Uri: https://ofertinhaml.online/products/kit-5-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml/?fbclid=IwZXh0bgNhZW0CMTAAAR2gYvizLzU-oixLG2c-r6k_v4i8rGVtev6BjV7a6V6b0YDkUfYVAhMmT74_aem_Aby5SXeovyY1Unr2PJIO3K3p_UpN3NQfTl5lWG9JUicdu8ITdzKm1wfXd632C4ucRtnWCremWOtNcBdRt8-3o42T
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-5-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml\index.htm
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-5-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-5-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml.html
+Content Type: text/html
+
+Uri: https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.5.5/mercadolibre/logo-pt__large_plus.png
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\frontend-assets\ml-web-navigation\ui-navigation\6.5.5\mercadolibre\logo-pt__large_plus.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff2
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-light.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-light.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.ttf
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-light.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff2
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.ttf
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff2
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.ttf
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.5.16/mercadolibre/gray-star.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\frontend-assets\ml-web-navigation\ui-navigation\6.5.16\mercadolibre\gray-star.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ofertinhasml.com/cdn/shop/t/2/assets/favicon.png?v=145227305158328575881714061211
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\t\2\assets\favicon.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ajax\libs\font-awesome\5.15.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\npm\slick-carousel@1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\index.htm
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-5-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml.oembed
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-5-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml.oembed
+Content Type: application/json+oembed
+
+Uri: https://www.ofertinhasml.com/cdn/shop/t/2/assets/mobile.css?v=44203832052130417581714061211
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\t\2\assets\mobile.css
+Content Type: text/css
+
+Uri: https://www.ofertinhasml.com/cdn/shop/t/2/assets/tamanho.css?v=177359468726002113431714061212
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\t\2\assets\tamanho.css
+Content Type: text/css
+
+Uri: https://www.ofertinhasml.com/cdn/shop/t/2/assets/catalizador.css?v=48533984014445982191714061211
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\t\2\assets\catalizador.css
+Content Type: text/css
+
+Uri: https://www.mercadolivre.com.br/a/especial/compra-internacional
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\a\especial\compra-internacional.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/lojas-oficiais
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\lojas-oficiais.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/categorias
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\categorias.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/l/app
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\l\app.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/ofertas
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ofertas.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/gz/home/navigation
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\gz\home\navigation.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/c/calcados-roupas-e-bolsas
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\c\calcados-roupas-e-bolsas.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/ajuda
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ajuda.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/mais-vendidos/MLB1002?new_bestseller_landing=false
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\mais-vendidos\MLB1002.html
+Content Type: text/html
+
+Uri: https://pay.opagamentoseguro.shop/lDW0ZavRWaQGN7E
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\lDW0ZavRWaQGN7E.json
+Content Type: application/json
+
+Uri: https://produto.mercadolivre.com.br/noindex/freeReturn/fashion?itemId=MLB2926179843&quantity=1&new_version=true&modal=false&controlled=true
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\noindex\freeReturn\fashion.html
+Content Type: text/html
+
+Uri: https://produto.mercadolivre.com.br/noindex/freeReturn/fashion?itemId=MLB2926179843&quantity=1&new_version=true&modal=false
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\noindex\freeReturn\fashion-1.html
+Content Type: text/html
+
+Uri: https://produto.mercadolivre.com.br/noindex/warranty/MLB2926179843?new_version=true&modal=false
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\noindex\warranty\MLB2926179843.html
+Content Type: text/html
+
+Uri: https://www.google.com/search?q=denunciar+anuncio+no+mercado+livre&oq=denunciar+anuncio+no+mercado+livre&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg0ODNqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\search.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/cesta-bauducco-19-itens-preco-promocional
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\cesta-bauducco-19-itens-preco-promocional.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/combo-ferrero-12-caixas-c-8-unidades-ferrero-rocher-preco-promocional
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\combo-ferrero-12-caixas-c-8-unidades-ferrero-rocher-preco-promocional.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/combo-presente-chic-cherie-desodorante-colonia-95-ml-locao-corporal-150ml-sacola-eudora
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\combo-presente-chic-cherie-desodorante-colonia-95-ml-locao-corporal-150ml-sacola-eudora.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/dove-baby-glicerina-completo-liberado-recem-nascido-com-07-itens
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\dove-baby-glicerina-completo-liberado-recem-nascido-com-07-itens.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-5-arroz-camil-5kg-5-azeite-de-oliva-extra-virgem-andorinha
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-5-arroz-camil-5kg-5-azeite-de-oliva-extra-virgem-andorinha.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-azeite-de-oliva-extra-virgem-andorinha-5-oleo-de-girassol-soya
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-azeite-de-oliva-extra-virgem-andorinha-5-oleo-de-girassol-soya.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-10-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-10-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-10-gallo-azeite-de-oliva-tipo-unico-portugues-vidro-500ml
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-10-gallo-azeite-de-oliva-tipo-unico-portugues-vidro-500ml.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-24-unidades-detergente-ype-liquido-neutro
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-24-unidades-detergente-ype-liquido-neutro.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-24-unidades-feijao-carioca-tipo-1-camil-pacote-1kg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-24-unidades-feijao-carioca-tipo-1-camil-pacote-1kg.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-3-caixas-gillette-mach-3-16-unidades-de-carga-por-caixa
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-3-caixas-gillette-mach-3-16-unidades-de-carga-por-caixa.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-3-caixas-redbull-energy-drink-250-ml-c-6-unidades-cada
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-3-caixas-redbull-energy-drink-250-ml-c-6-unidades-cada.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-3-unidades-golden-10-1-kg-36-saches-whiskas-protetor-de-sofa-par
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-3-unidades-golden-10-1-kg-36-saches-whiskas-protetor-de-sofa-par.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-3-unidades-pacote-sonho-de-valsa-1kg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-3-unidades-pacote-sonho-de-valsa-1kg.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-3-unidades-special-dog-15-kg-36-saches-pedigree-5-brinquedos
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-3-unidades-special-dog-15-kg-36-saches-pedigree-5-brinquedos.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-36-unidades-creme-dental-colgata-total-12-clean-mint-90g
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-36-unidades-creme-dental-colgata-total-12-clean-mint-90g.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-36-unidades-sabonete-em-barra-corporal-dove-original-90g
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-36-unidades-sabonete-em-barra-corporal-dove-original-90g.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-5-azeite-de-oliva-extra-virgem-andorinha-utensilios-de-cozinha-12-pecas
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-5-azeite-de-oliva-extra-virgem-andorinha-utensilios-de-cozinha-12-pecas.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-5-unidades-formula-infantil-em-po-sem-gluten-nestle-ninho-fases-1-en-lata-de-800g
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-5-unidades-formula-infantil-em-po-sem-gluten-nestle-ninho-fases-1-en-lata-de-800g.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-5-unidades-listerine-cool-mind-1-litro
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-5-unidades-listerine-cool-mind-1-litro.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-6-unidades-achocolatado-nescau-1-02-kg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-6-unidades-achocolatado-nescau-1-02-kg.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-bolsa-de-maternidade-3-pecas-saida-maternidade-enxoval-master-menina
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-bolsa-de-maternidade-3-pecas-saida-maternidade-enxoval-master-menina.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-bolsa-maternidade-5-pcs-2-mamadeira-latex-lilo-e-2-chupeta-latex
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-bolsa-maternidade-5-pcs-2-mamadeira-latex-lilo-e-2-chupeta-latex.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-churrasco-com-15-itens-barril-heineken-5-litros
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-churrasco-com-15-itens-barril-heineken-5-litros.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-coca-cola-10-coca-cola-3-litros-5-coca-cola-2-litros-e-3-fanta-laranja-2-litros
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-coca-cola-10-coca-cola-3-litros-5-coca-cola-2-litros-e-3-fanta-laranja-2-litros.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-completo-arroz-acucar-cafe-biscoito-azeite-andorinha-feijao-pipoca-sardinha
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-completo-arroz-acucar-cafe-biscoito-azeite-andorinha-feijao-pipoca-sardinha.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-completo-produtos-vanish-para-roupas-brancas-e-coloridas-28-unidades
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-completo-produtos-vanish-para-roupas-brancas-e-coloridas-28-unidades.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-cozinha-5-azeite-de-oliva-extra-virgem-andorinha-conjunto-galheteiro-7-pecas
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-cozinha-5-azeite-de-oliva-extra-virgem-andorinha-conjunto-galheteiro-7-pecas.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-eudora-5-itens-exclusivos-cabelo-maquiagem-pele-colonia
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-eudora-5-itens-exclusivos-cabelo-maquiagem-pele-colonia.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-eudora-imensi-alive-desodorante-colonia-100ml-locao-corporal-200ml
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-eudora-imensi-alive-desodorante-colonia-100ml-locao-corporal-200ml.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-familia-05-unidades-brilhante-limpeza-total-blindagem-de-cores-4kg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-familia-05-unidades-brilhante-limpeza-total-blindagem-de-cores-4kg.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-familia-15-itens-3-arroz-camil-3-espaguete-barilla-3-farina-dona-benta-3-cafe-3-coracoes-e-3-feijao-carioca-camil-preco-promocional
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-familia-15-itens-3-arroz-camil-3-espaguete-barilla-3-farina-dona-benta-3-cafe-3-coracoes-e-3-feijao-carioca-camil-preco-promocional.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-familia-15-unidades-cafe-melitta-tradicional-preco-promocional
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-familia-15-unidades-cafe-melitta-tradicional-preco-promocional.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-familia-20-unidades-italac-leite-condensado-semidesnatado-395g
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-familia-20-unidades-italac-leite-condensado-semidesnatado-395g.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-floratta-blue-1-hidratantes-desodorante-colonia
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-floratta-blue-1-hidratantes-desodorante-colonia.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-heineken-3-barril-5-litros-2-fardos-269-ml-cooler-termico
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-heineken-3-barril-5-litros-2-fardos-269-ml-cooler-termico.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-huggies-cuidado-para-bebe-19-itens-brinde
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-huggies-cuidado-para-bebe-19-itens-brinde.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-johnsons-cuidado-para-bebe-presente-12-itens-brinde
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-johnsons-cuidado-para-bebe-presente-12-itens-brinde.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-loreal-paris-linha-hidrahialuronico-cachos-e-glycolic-gloss
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-loreal-paris-linha-hidrahialuronico-cachos-e-glycolic-gloss.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-liz-sublime-maes-o-boticario-2-itens-desodorante-colonia-e-creme-hidratante
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-liz-sublime-maes-o-boticario-2-itens-desodorante-colonia-e-creme-hidratante.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-mamadeira-latex-lilo-e-2-chupeta-latex-0-6-meses
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-mamadeira-latex-lilo-e-2-chupeta-latex-0-6-meses.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-natura-mamae-e-bebe-maternidade-completo-com-oleo-de-massagem-e-saboneteira
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-natura-mamae-e-bebe-maternidade-completo-com-oleo-de-massagem-e-saboneteira.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-presente-glamour-secrets-black-3-itens-desodorante-colonia-e-necessaire
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-presente-glamour-secrets-black-3-itens-desodorante-colonia-e-necessaire.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-presente-malbec-4-itens-o-boticario-desodorante-spray-desodorante-colonia-shower-gel-locao
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-presente-malbec-4-itens-o-boticario-desodorante-spray-desodorante-colonia-shower-gel-locao.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-presente-nativa-spa-ameixa-3-itens-o-boticario-creme-para-maos-hidratantes
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-presente-nativa-spa-ameixa-3-itens-o-boticario-creme-para-maos-hidratantes.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-principia-nativa-spa-eudora-para-todos-os-tipos-de-pele
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-principia-nativa-spa-eudora-para-todos-os-tipos-de-pele.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-principia-6-itens-tratamento-intensivo-para-todos-os-tipos-de-pele
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-principia-6-itens-tratamento-intensivo-para-todos-os-tipos-de-pele.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-saida-bolsa-maternidade-5-pcs-safari
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-saida-bolsa-maternidade-5-pcs-safari.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/products/kit-skol-6-fardos-de-cerveja-skol-350ml-preco-promocional
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-skol-6-fardos-de-cerveja-skol-350ml-preco-promocional.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/assinaturas/melimais
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\assinaturas\melimais.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/ajuda/Termos-e-condicoes-gerais-de-uso_1409
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ajuda\Termos-e-condicoes-gerais-de-uso_1409.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/privacidade
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\privacidade.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/acessibilidade
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\acessibilidade.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/ajuda/23303
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ajuda\23303.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/blog
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\blog.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/l/afiliados-home
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\l\afiliados-home.html
+Content Type: text/html
+
+Uri: https://tendencias.mercadolivre.com.br/
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\index-2.htm
+Content Type: text/html
+
+Uri: https://hp.mercadolibre.com/?p=ML&s=MLB&d=mobile
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\index.htm.json
+Content Type: application/json
+
+Uri: https://www.mercadolivre.com.br/noindex/zip-finder/search?redirectUrl=https:%2F%2Fwww.mercadolivre.com.br%2Fnavigation%2Faddresses-hub&method=POST
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\noindex\zip-finder\search.html
+Content Type: text/html
+
+Uri: https://www.google.com/
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\index-3.htm
+Content Type: text/html
+
+Uri: https://www.google.com.br/
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\index-4.htm
+Content Type: text/html
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/generic-modal.mobile.5bae6201.css
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\frontend-assets\vpp-frontend\generic-modal.mobile.5bae6201.css
+Content Type: text/css
+
+Uri: https://www.mercadopago.com.br/conta
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\conta.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/ajuda/Como-pagar-a-sua-compra_923
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\ajuda\Como-pagar-a-sua-compra_923.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/cdn/shop/t/2/assets/desktop1.css?v=78927376678264432411714061211
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\t\2\assets\desktop1.css
+Content Type: text/css
+
+Uri: https://www.ofertinhasml.com/cdn/shop/t/2/assets/equalizador.css?v=77932930545080279801714061211
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\t\2\assets\equalizador.css
+Content Type: text/css
+
+Uri: https://www.mercadolivre.com.br/navigation/addresses-hub?go=https:%2F%2Fproduto.mercadolivre.com.br%2FMLB-3358947169-pneu-20560r16-92h-saferich-frc16-_JM%3Fvariation%3D178072152186
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\navigation\addresses-hub-2.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/c/acessorios-para-veiculos
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\c\acessorios-para-veiculos.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/cdn/shop/t/2/assets/anuncios.css?v=108382645382159871281714061211
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\t\2\assets\anuncios.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/jsbarcode@3.11.0/dist/JsBarcode.all.min.js
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\npm\jsbarcode@3.11.0\dist\JsBarcode.all.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.4.min.js
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\jquery-3.6.4.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\npm\slick-carousel@1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.ofertinhasml.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shopifycloud\shopify\assets\storefront\load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+Content Type: text/javascript
+
+Uri: https://www.ofertinhasml.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shopifycloud\shopify\assets\storefront\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+Content Type: text/javascript
+
+Uri: https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.5.18/mercadolibre/modal-logo-120x120.jpg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\frontend-assets\ml-web-navigation\ui-navigation\6.5.18\mercadolibre\modal-logo-120x120.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6499_500x500.png?v=1714142763
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6499_500x500.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/D_NQ_NP_914488-MLA74840999426_032024-T.webp
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\D_NQ_NP_914488-MLA74840999426_032024-T.webp
+Content Type: image/webp
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/television_size_v3.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\catalog-technical-specs\images\assets\vectorial\television_size_v3.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/resolution_type.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\catalog-technical-specs\images\assets\vectorial\resolution_type.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/screen_type.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\catalog-technical-specs\images\assets\vectorial\screen_type.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/smart.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\catalog-technical-specs\images\assets\vectorial\smart.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/integrated_apps.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\catalog-technical-specs\images\assets\vectorial\integrated_apps.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/hdmi.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\catalog-technical-specs\images\assets\vectorial\hdmi.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\frontend-assets\vpp-frontend\medal.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\frontend-assets\vpp-frontend\message-positive.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\frontend-assets\vpp-frontend\time-positive.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/51b446b0-571c-11e8-9a2d-4b2bd7b1bf77-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\51b446b0-571c-11e8-9a2d-4b2bd7b1bf77-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/ddf23a60-f3bd-11eb-a186-1134488bf456-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\ddf23a60-f3bd-11eb-a186-1134488bf456-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/ed8d6fd0-f3bd-11eb-9984-b7076edb0bb7-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\ed8d6fd0-f3bd-11eb-9984-b7076edb0bb7-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/d2407420-f3bd-11eb-8e0d-6f4af49bf82e-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\d2407420-f3bd-11eb-8e0d-6f4af49bf82e-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/f99fcca0-f3bd-11eb-9984-b7076edb0bb7-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\f99fcca0-f3bd-11eb-9984-b7076edb0bb7-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/00174300-571e-11e8-8364-bff51f08d440-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\00174300-571e-11e8-8364-bff51f08d440-m.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_6_small.png?v=1716225662
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_6_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_1_small.png?v=1715706007
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo2_2_small.png?v=1715865802
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo2_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_2_small.png?v=1715868526
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_3_small.png?v=1716228109
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_3_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo21_2_small.png?v=1716228206
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo21_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6789_small.png?v=1715710071
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6789_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6790_small.png?v=1715710255
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6790_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/images_3_sadsadsa_small.jpg?v=1714494360
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\images_3_sadsadsa_small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo8_1_small.png?v=1715706204
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo8_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo18_1_small.png?v=1715707319
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo18_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo16_1_small.png?v=1715707161
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo16_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo12_1_small.png?v=1715706544
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo12_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo20_1_small.png?v=1715707585
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo20_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_1_small.png?v=1715706395
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo22_1_small.png?v=1715708324
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo22_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo14_1_small.png?v=1715706949
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo14_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo25_small.png?v=1716228519
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo25_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6499_small.png?v=1714142763
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6499_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo15_1_small.png?v=1715707046
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo15_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_1_small.png?v=1715707265
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_1_small.png?v=1715707471
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo18_2_small.png?v=1715868332
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo18_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo27_small.png?v=1716228645
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo27_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_3_small.png?v=1716227886
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_3_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_3_small.png?v=1716226168
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_3_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo3_3_small.png?v=1716225716
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo3_3_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6_1_small.png?v=1715708480
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo23_1_small.png?v=1716228398
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo23_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6_2_small.png?v=1715866386
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_5_small.png?v=1715865408
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_5_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo23_small.png?v=1715869112
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo23_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6_small.png?v=1715704973
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo2_small.png?v=1715705458
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo3_1_small.png?v=1715705842
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo3_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo4_1_small.png?v=1715866085
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo4_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo7_1_small.png?v=1716226353
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo7_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_4_small.png?v=1716230501
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_4_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo9_2_small.png?v=1716226585
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo9_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo13_3_small.png?v=1716227044
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo13_3_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_3_small.png?v=1715867414
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_3_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo20_2_small.png?v=1715868640
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo20_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo16_2_small.png?v=1715868055
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo16_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo8_2_small.png?v=1715866611
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo8_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo9_1_small.png?v=1715866709
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo9_1_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_2_small.png?v=1715866228
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo29_small.png?v=1716229205
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo29_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo13_2_small.png?v=1715867655
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo13_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_2_small.png?v=1715868224
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_2_small.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_4_small.png?v=1715705718
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_4_small.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/resources/splash/force-splash-v5.js
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\resources\splash\force-splash-v5.js
+Content Type: application/javascript
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/mpago.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\frontend-assets\vpp-frontend\mpago.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/d572fb20-8da7-11ec-b5e8-23212ecb99a1-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\d572fb20-8da7-11ec-b5e8-23212ecb99a1-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/D_NQ_856833-MLA74547382581_022024-OO.webp
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\D_NQ_856833-MLA74547382581_022024-OO.webp
+Content Type: image/webp
+
+Uri: https://http2.mlstatic.com/storage/official-stores-images/acheipneus/background20230808134441.jpg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\official-stores-images\acheipneus\background20230808134441.jpg
+Content Type: binary/octet-stream
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/1e7db140-6f0b-11ec-813c-8542a9aff8ea-m.svg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\storage\logos-api-admin\1e7db140-6f0b-11ec-813c-8542a9aff8ea-m.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ofertinhasml.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shopifycloud\shopify\assets\no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif
+Content Type: image/gif
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6499.png?v=1714142763
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6499.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/D_NQ_NP_695762-MLB70170610235_062023-O.webp
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\D_NQ_NP_695762-MLB70170610235_062023-O.webp
+Content Type: image/webp
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_6_large.png?v=1716225662
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_6_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_1_large.png?v=1715706007
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo2_2_large.png?v=1715865802
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo2_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_2_large.png?v=1715868526
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_3_large.png?v=1716228109
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_3_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo21_2_large.png?v=1716228206
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo21_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6789_large.png?v=1715710071
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6789_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6790_large.png?v=1715710255
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6790_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/images_3_sadsadsa_large.jpg?v=1714494360
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\images_3_sadsadsa_large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo8_1_large.png?v=1715706204
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo8_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo18_1_large.png?v=1715707319
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo18_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo16_1_large.png?v=1715707161
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo16_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo12_1_large.png?v=1715706544
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo12_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo20_1_large.png?v=1715707585
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo20_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_1_large.png?v=1715706395
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo22_1_large.png?v=1715708324
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo22_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo14_1_large.png?v=1715706949
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo14_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo25_large.png?v=1716228519
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo25_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6499_large.png?v=1714142763
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6499_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo15_1_large.png?v=1715707046
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo15_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_1_large.png?v=1715707265
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_1_large.png?v=1715707471
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo18_2_large.png?v=1715868332
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo18_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo27_large.png?v=1716228645
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo27_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_3_large.png?v=1716227886
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_3_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_3_large.png?v=1716226168
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_3_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo3_3_large.png?v=1716225716
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo3_3_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6_1_large.png?v=1715708480
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo23_1_large.png?v=1716228398
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo23_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6_2_large.png?v=1715866386
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_5_large.png?v=1715865408
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_5_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo23_large.png?v=1715869112
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo23_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6_large.png?v=1715704973
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo2_large.png?v=1715705458
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo3_1_large.png?v=1715705842
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo3_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo4_1_large.png?v=1715866085
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo4_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo7_1_large.png?v=1716226353
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo7_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_4_large.png?v=1716230501
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_4_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo9_2_large.png?v=1716226585
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo9_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo13_3_large.png?v=1716227044
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo13_3_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_3_large.png?v=1715867414
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_3_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo20_2_large.png?v=1715868640
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo20_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo16_2_large.png?v=1715868055
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo16_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo8_2_large.png?v=1715866611
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo8_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo9_1_large.png?v=1715866709
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo9_1_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_2_large.png?v=1715866228
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo29_large.png?v=1716229205
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo29_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo13_2_large.png?v=1715867655
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo13_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_2_large.png?v=1715868224
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_2_large.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_4_large.png?v=1715705718
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_4_large.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/D_862339-MLU72630161993_112023-O.jpg
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\D_862339-MLU72630161993_112023-O.jpg
+Content Type: image/jpeg
+
+Uri: https://td.doubleclick.net/td/rul/1064806848?random=1703530820053&cv=11&fst=1703530820053&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be3bt0v891212654&gcd=11l1l1l1l1&dma=0&u_w=420&u_h=543&url=https:%2F%2Floja.mercadolivre.com.br%2FMercado Livre%3Fitem_id%3DMLB2749155223%26category_id%3DMLB120315%26official_store_id%3D458%26client%3Drecoview-selleritems%26recos_listing%3Dtrue%26skipInApp%3Dtrue&hn=www.googleadservices.com&frm=0&tiba=Mercado Livre | MercadoLivre.com.br&auid=1643959256.1703530819&fledge=1&data=event%3Dgtag.config
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\td\rul\1064806848.html
+Content Type: text/html
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_6.png?v=1716225662
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_6.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_1.png?v=1715706007
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo2_2.png?v=1715865802
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo2_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_2.png?v=1715868526
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_3.png?v=1716228109
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_3.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo21_2.png?v=1716228206
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo21_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6789.png?v=1715710071
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6789.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/IMG_6790.png?v=1715710255
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\IMG_6790.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/images_3_sadsadsa.jpg?v=1714494360
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\images_3_sadsadsa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo8_1.png?v=1715706204
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo8_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo18_1.png?v=1715707319
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo18_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo16_1.png?v=1715707161
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo16_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo12_1.png?v=1715706544
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo12_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo20_1.png?v=1715707585
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo20_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_1.png?v=1715706395
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo22_1.png?v=1715708324
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo22_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo14_1.png?v=1715706949
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo14_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo25.png?v=1716228519
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo25.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo15_1.png?v=1715707046
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo15_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_1.png?v=1715707265
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo19_1.png?v=1715707471
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo19_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo18_2.png?v=1715868332
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo18_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo27.png?v=1716228645
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo27.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_3.png?v=1716227886
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_3.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_3.png?v=1716226168
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_3.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo3_3.png?v=1716225716
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo3_3.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6_1.png?v=1715708480
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo23_1.png?v=1716228398
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo23_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6_2.png?v=1715866386
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_5.png?v=1715865408
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_5.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo23.png?v=1715869112
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo23.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo6.png?v=1715704973
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo6.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo2.png?v=1715705458
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo3_1.png?v=1715705842
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo3_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo4_1.png?v=1715866085
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo4_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo7_1.png?v=1716226353
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo7_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_4.png?v=1716230501
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_4.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo9_2.png?v=1716226585
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo9_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo13_3.png?v=1716227044
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo13_3.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo11_3.png?v=1715867414
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo11_3.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo20_2.png?v=1715868640
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo20_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo16_2.png?v=1715868055
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo16_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo8_2.png?v=1715866611
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo8_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo9_1.png?v=1715866709
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo9_1.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo5_2.png?v=1715866228
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo5_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo29.png?v=1716229205
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo29.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo13_2.png?v=1715867655
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo13_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo17_2.png?v=1715868224
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo17_2.png
+Content Type: image/png
+
+Uri: https://www.ofertinhasml.com/cdn/shop/files/Criativo1_4.png?v=1715705718
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\cdn\shop\files\Criativo1_4.png
+Content Type: image/png
+
+Uri: https://produto.mercadolivre.com.br/noindex/services/MLB1632127417/payments?new_version=true&modal=true&newIndex=true
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\noindex\services\MLB1632127417\payments.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/navigation/addresses-hub?go=https:%2F%2Fwww.mercadolivre.com.br%2Fsmart-tv-samsung-bet-b-hd-32-bivolt%2Fp%2FMLB15828219%3Fpdp_filters%3Dcategory%253AMLB1002&mode=embed
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\navigation\addresses-hub.html
+Content Type: text/html
+
+Uri: https://www.jsdelivr.com/
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\index-1.htm
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com/jms/mlb/lgz/login?platform_id=ML&go=https:%2F%2Fwww.mercadolivre.com.br%2Fresumo&loginType=explicit
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\jms\mlb\lgz\login.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com/jms/mlb/lgz/login?platform_id=ML&go=https:%2F%2Fwww.mercadolivre.com.br%2Fsyi%2Fcore%2Flist&loginType=sell
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\jms\mlb\lgz\login-1.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com.br/navigation/addresses-hub?flow=true&mode=embed&go=https:%2F%2Fwww.mercadolivre.com.br%2Fgz%2Fshipping-calculator%3Fitem_id%3DMLB2926179843%26new_version%3Dtrue%26modal%3Dfalse%26informative%3Dtrue%26pdp_filters%3Ditem_id%253AMLB2926179843%26quick_access%3Dtrue%26backUrl%3Dhttps%253A%252F%252Fwww.mercadolivre.com.br%252Fgz%252Fshipping-calculator%253Fitem_id%253DMLB2926179843%2526new_version%253Dtrue%2526modal%253Dfalse%2526informative%253Dtrue%2526pdp_filters%253Ditem_id%25253AMLB2926179843%2526quick_access%253Dtrue
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\navigation\addresses-hub-1.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com/jms/mlb/lgz/login?platform_id=ML&go=https:%2F%2Fmyaccount.mercadolivre.com.br%2Fmyaccount%2Fmymenu&loginType=explicit
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\jms\mlb\lgz\login-2.html
+Content Type: text/html
+
+Uri: https://www.mercadolivre.com/jms/mlb/lgz/login?platform_id=ML&go=https:%2F%2Fmyaccount.mercadolivre.com.br%2Fbookmarks%2Flist&loginType=explicit
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\jms\mlb\lgz\login-3.html
+Content Type: text/html
+
+Uri: https://marketingplatform.google.com/about/analytics/
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\about\analytics\index.htm
+Content Type: text/html
+
+Uri: https://ofertinhaml.online/products/kit-5-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml/
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\products\kit-5-azeite-de-oliva-extra-virgem-portugues-andorinha-classicos-vidro-500ml\index-1.htm
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs@gh-pages/qrcode.min.js
+File Name: C:\Downloaded Web Sites\ofertinhaml.online\gh\davidshimjs\qrcodejs@gh-pages\qrcode.min.js
+Content Type: application/javascript
+
